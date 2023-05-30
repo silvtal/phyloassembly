@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Original publication"
+authors:
+  - family-names: Talavera-Marcos
+    given-names: Silvia
+    orcid: https://orcid.org/0000-0002-6923-2876
+  - family-names: Parras
+    given-names: Marcos 
+    orcid: https://orcid.org/0000-0003-0529-627X
+  - family-names: Aguirre de Cárcer
+    given-names: Daniel
+    orcid: https://orcid.org/0000-0003-1104-9566
+title: "Leveraging phylogenetic signal to unravel microbial community function and assembly rules"
+version: 0
+doi: 10.21203/rs.3.rs-2272005/v1
+date-released: 2022-12-08
