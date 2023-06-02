@@ -1,0 +1,94 @@
+Warning at X1 shannon. [1m[33mWarning[39m:[22m
+[38;5;17mUsing `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+[36mℹ[38;5;17m Please use `linewidth` instead.
+[90mThis warning is displayed once every 8 hours.[38;5;17m
+[90mCall `lifecycle::last_lifecycle_warnings()` to see where this[38;5;17m
+[90mwarning was generated.[38;5;17m[39m
+
+Warning at X1 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X1 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X1 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X3 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X3 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X3 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X3 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X4 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X4 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X4 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X4 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X5 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X5 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X5 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X5 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 pielou. [1m[33mWarning[39m:[22m
+[38;5;17mRemoved 1 rows containing non-finite values (`stat_ecdf()`).[39m
+
+Warning at X6 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X7 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X7 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X7 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X7 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X8 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X8 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X8 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X8 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X9 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X9 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X9 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X9 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X10 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X10 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X10 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X10 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X12 shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X12 pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X12 obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X12 faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+

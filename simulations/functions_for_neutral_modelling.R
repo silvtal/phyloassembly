@@ -1,5 +1,3 @@
-sourceCpp("./growth.cpp")
-
 create_counts <- function (exp, # abundances
                            map, # metadata about m_inic, replicates, sample names...
                            m_inic, # original sample names

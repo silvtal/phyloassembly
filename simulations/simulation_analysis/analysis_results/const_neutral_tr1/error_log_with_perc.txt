@@ -1,0 +1,40 @@
+Warning at X2 others shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X2 others faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others shannon. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others pielou. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others obs_rich. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+
+Warning at X6 others faith. simpleWarning in max(f): no non-missing arguments to max; returning -Inf
+

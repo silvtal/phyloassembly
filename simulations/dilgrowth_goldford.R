@@ -127,7 +127,6 @@ if (is.null(subset_otus)) {
 # ==========
 # simulation
 # ==========
-pcgc <- pcgcodemaker(tax, f_ = T)
 
 ## start
 
