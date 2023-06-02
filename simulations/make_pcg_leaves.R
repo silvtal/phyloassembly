@@ -12,6 +12,9 @@ outfile    <- "simulation_parameters/pcg_leaves.txt"
 # tr1
 table_file <- "simulation_parameters/tr1_X2_X6_table.from_biom_0.99.txt"
 outfile    <- "simulation_parameters/pcg_leaves_tr1.txt"
+# for outliers_search.R
+# table_file <- "simulation_parameters/all_glc.txt"
+# outfile    <- "simulation_parameters/pcg_leaves_tr12_orig.txt"
 
 library(ape)
 
@@ -31,7 +34,7 @@ leaves_string_node27828 <- paste(intersect(leaves_node27828, rownames(table_data
 leaves_string_node35562 <- paste(intersect(leaves_node35562, rownames(table_data)), collapse = ";")
 
 # Save the rest as "others"
-leaves_string_others <- paste(rownames(table_data)[!(rownames(table_data) %in% c(leaves_string_node27828, leaves_string_node35562))], collapse = ";")
+leaves_string_others <- paste(rownames(table_data)[!(rownames(table_data) %in% c(leaves_node27828, leaves_node35562))], collapse = ";")
 
 # Create the pcgtable
 out_data <- data.frame(Core = c("Node27828", "Node35562", "others"),
