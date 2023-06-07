@@ -6,14 +6,14 @@
 # ==============================================================================
 # .../boxplots + tablas_DTS - draft2022/readme   simul_vs_simul# Each one of these will be compared to neutral simuls
 inputs  <- list("neutral"    = "analysis_results/neutral/",
-                "const_neutral"           = "analysis_results/const_neutral/")
+                "const_neutral"           = "analysis_results_alternative/const_neutral/")
 
 # We'll load the experimental data too (any folder does it)
 input_real <- "analysis_results/neutral/"
 
 dataset_name <- names(inputs)
 
-output  <- "analysis_results/comparison_results_SupplFig3/"
+output  <- "analysis_results_alternative/comparison_results_SupplFig3/"
 
 r_dig <- 3 # digits to round to
 if (!file.exists(output)) {system(paste("mkdir -p", output))}

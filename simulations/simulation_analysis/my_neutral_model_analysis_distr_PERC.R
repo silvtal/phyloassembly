@@ -1,13 +1,17 @@
 # tr0
 input_s="simulation_results/my_neutral_model_glc_PERC/"
+# input_s="simulation_results/my_neutral_model_glc_PERC_alternative/"
 pcgtable="../simulation_parameters/pcg_leaves.txt"
 output="analysis_results/const_neutral"
+# output="analysis_results/const_neutral_alternative"
 m_inic=paste0("X", 1:12)
 
 # tr1
 input_s="simulation_results/my_neutral_model_glc_tr1_PERC/"
+# input_s="simulation_results/my_neutral_model_glc_tr1_PERC_alternative/"
 pcgtable="../simulation_parameters/pcg_leaves_tr1.txt"
 output="analysis_results/const_neutral_tr1"
+# output="analysis_results/const_neutral_tr1_alternative"
 m_inic=c("X2", "X6")
 
 if (!file.exists(output)) {system(paste("mkdir -p",output))}
@@ -65,7 +69,7 @@ for (m in m_inic){
       }
       message(paste0("A total of ",limit," simulations will be used for the null model analysis for all PCGs together (sample ",m,")."))
       
-      PCG_final_abund[[m]][[PCG]] <- PCG_final_abund[[m]][[PCG]][1:limit,,drop=FALSE] %>% na.omit() # por si algúna matriz tiene menos simulaciones que la de all.
+      PCG_final_abund[[m]][[PCG]] <- PCG_final_abund[[m]][[PCG]][1:limit,,drop=FALSE] %>% na.omit() # por si alguna matriz tiene menos simulaciones que la de all.
     } else {
       message(paste0("PCG ",PCG," of sample ",m, " does not have an existing file, probably disappeared during simulations. Skipped."))
       m_inic <- m_inic[m_inic!=m]

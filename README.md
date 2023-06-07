@@ -1,4 +1,4 @@
-This repository includes the custom packages and scripts used in "Leveraging phylogenetic signal to unravel microbial community function and assembly rules" by Talavera-Marcos, Parras and Aguirre de Cárcer (https://doi.org/10.21203/rs.3.rs-2272005/v1)
+This repository includes the custom packages and scripts used in "Leveraging phylogenetic signal to unravel microbial community function and assembly rules" by Talavera-Marcos, Parras-Moltó and Aguirre de Cárcer (https://doi.org/10.21203/rs.3.rs-2272005/v1)
 
 The approaches used for each section of the paper are listed down below
 
@@ -7,7 +7,7 @@ The approaches used for each section of the paper are listed down below
 - PCGs in the environment: [BacterialCore.py](https://github.com/mparmol/BacterialCore)
 - Experimental dataset processing: [16S](https://github.com/silvtal/16S/tree/main/goldford)
 - Mapping 16S sequences to genomes and metabolic modeling: [TFM](https://github.com/silvtal/TFM)
-- (#TODO) Core pangenome exploration: [get_core_reactions](https://github.com/silvtal/get_core_reactions)
+- Core pangenome exploration: [get_core_reactions](https://github.com/silvtal/get_core_reactions)
 - Drift modeling:
   - [R package for dilution-growth simulations](https://github.com/silvtal/dilgrowth)
   - [Specific datasets and analysis](https://github.com/silvtal/phyloassembly/blob/main/simulations)
